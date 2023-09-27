@@ -27,5 +27,53 @@
     
     }
     
+    
+    .firstSec{
+        display: flex;
+        flex-direction: column;
+        padding: 114px 24px;
+       
+    }
+    .intoHead{
+        color: #172B4D;
+        font-size: 40px;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 700;
+        line-height: 52px;
+        margin-bottom: 12px;
+    }
+    
+    .intoDes{
+        color: #344563;
+        font-size: 1.1rem;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 400;
+        line-height: 24px;
+        margin-bottom: 12px;
+    }
+    
+    .contact{
+        color: #7F8CFF;
+        font-size: 0.8remrem;
+        font-family: 'Poppins', sans-serif;
+        font-weight: 500;
+        line-height: 20px;
+        word-wrap: break-word;
+        margin-bottom: 12px;
+    }
+    
+    .social{
+        margin-top: 0.5rem;
+    }
+    
+    .fa-brands{
+        margin-right: 1rem;
+        font-size:1.5rem;
+        color:#505F79;
+    }
+    
+    .social i:hover{
+       color: black;
+    }
 
 }
