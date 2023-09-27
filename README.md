@@ -8,6 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
 - [👥 Authors](#authors)
+-  [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
@@ -45,6 +46,15 @@
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+<!-- CONTRIBUTING -->
+
+## 🤝 Contributing <a name="contributing"></a>
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/mioOleen/Portfolio-1/issues).
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- SUPPORT -->
 
