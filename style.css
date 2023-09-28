@@ -37,7 +37,6 @@
     line-height: 52px;
     margin-bottom: 12px;
     width: 80%;
-  
   }
 
   .intoDes {
@@ -48,7 +47,6 @@
     line-height: 24px;
     margin-bottom: 12px;
     width: 85%;
-   
   }
 
   .contact {
@@ -65,7 +63,7 @@
     margin-top: 0.5rem;
   }
 
-  .social>a {
+  .social > a {
     margin-right: 1rem;
     font-size: 1.5rem;
     color: #505f79;
