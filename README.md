@@ -5,8 +5,9 @@
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
-  - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
+- [🛠 Built With](#built-with)
+  - [Tech Stack](#tech-stack)
+- [💻 Getting Started](#getting-started)
 - [👥 Authors](#authors)
 -  [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
@@ -32,6 +33,23 @@
     <li>CSS</li>
   </ul>
 </details>
+
+## 💻 Getting Started <a name="getting-started"></a>
+
+To get a local copy up and running, follow these steps.
+
+### Prerequisites
+
+In order to run this project you need:
+to download the project or clone it to your machine.
+
+### Setup
+
+Clone this repository to your desired folder:
+1-Click the green "code" button
+2-Choose "download" Zip option
+3-After download is completed,ypu must extract the file
+4-Now,you can open the folder your desired code editor
 
 
 <!-- AUTHORS -->
@@ -81,3 +99,4 @@ This project is [MIT](https://github.com/mioOleen/Portfolio-1/blob/master/LICENS
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
