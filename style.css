@@ -21,13 +21,6 @@
   line-height: 20px;
 }
 
-.firstSec {
-  display: flex;
-  flex-direction: column;
-  padding: 114px 24px;
-  width: 100%;
-}
-
 .intoHead {
   color: #172b4d;
   font-size: 40px;
@@ -255,6 +248,15 @@
 }
 
 @media screen and (min-width: 375px) {
+  .firstSec {
+    display: flex;
+    flex-direction: column;
+    padding: 114px 24px;
+    width: 100%;
+    background-image: url("./img/header-shapes\ mobile.png");
+    background-repeat: no-repeat;
+  }
+
   .cards {
     display: flex;
     flex-direction: column;
@@ -279,6 +281,15 @@
 }
 
 @media screen and (min-width: 768px) {
+  .firstSec {
+    display: flex;
+    flex-direction: column;
+    padding: 114px 24px;
+    width: 100%;
+    background-image: url("./img/contact\ form\ background\ shapes@2x.png");
+    background-repeat: no-repeat;
+  }
+
   .cards {
     display: flex;
     flex-direction: row;
