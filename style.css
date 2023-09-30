@@ -78,7 +78,7 @@
   font-size: 32px;
   line-height: 44px;
   color: #172b4d;
-  margin-bottom: 12px;
+  margin: 12px 0;
 }
 
 .brief-list {
@@ -87,7 +87,30 @@
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
+  padding: 8px 0;
   margin-bottom: 12px;
+}
+
+.lg > span {
+  color: black;
+  font-size: 20px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 500;
+  line-height: 24px;
+  padding: 16px 26px 16px 12px;
+}
+
+.brief-list span:first-child {
+  color: #344563;
+  font-size: 13px;
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  line-height: 16px;
+}
+
+.brief-list > img {
+  margin: 0 12px;
+  padding: 0;
 }
 
 .self-intro {
@@ -219,15 +242,6 @@
 
 .abtLg > div:nth-child(3) {
   border-bottom: 1px solid #dfe1e6;
-}
-
-.lg > span {
-  color: black;
-  font-size: 20px;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 500;
-  line-height: 24px;
-  padding: 16px 26px 16px 12px;
 }
 
 .lg > img {
