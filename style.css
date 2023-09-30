@@ -58,14 +58,10 @@
   margin-bottom: 12px;
 }
 
-.social {
-  margin-top: 0.5rem;
-}
-
 .social > a {
-  margin-right: 1rem;
   font-size: 1.5rem;
   color: #505f79;
+  padding: 8px;
 }
 
 .vt:hover {
@@ -89,7 +85,7 @@
   font-size: 32px;
   line-height: 44px;
   color: #172b4d;
-  margin: 12px 0 0 0;
+  margin-bottom: 12px;
 }
 
 .brief-list {
@@ -98,7 +94,7 @@
   font-weight: 600;
   font-size: 13px;
   line-height: 16px;
-  margin: 12px 0 0 0;
+  margin-bottom: 12px;
 }
 
 .self-intro {
@@ -107,6 +103,7 @@
   font-weight: 400;
   font-size: 15px;
   line-height: 24px;
+  margin-bottom: 12px;
 }
 
 .self-intro p {
@@ -154,6 +151,14 @@
   background-color: #6070ff;
 }
 
+.abtMyself {
+  padding: 114px 24px;
+}
+
+.abtAll {
+  padding: 0 11px;
+}
+
 .aboutMe {
   color: #172b4d;
   font-size: 40px;
@@ -162,16 +167,6 @@
   line-height: 52px;
   margin-bottom: 12px;
   width: 80%;
-}
-
-.abtJob {
-  color: #344563;
-  font-size: 1.1rem;
-  font-family: 'Poppins', sans-serif;
-  font-weight: 400;
-  line-height: 24px;
-  margin-bottom: 12px;
-  width: 85%;
 }
 
 .abtAll .abtMe {
@@ -211,7 +206,7 @@
 }
 
 .abtLg {
-  margin: 24px 0 0 0;
+  margin: 24px 12px 0 12px;
 }
 
 .lg {
@@ -222,7 +217,6 @@
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   line-height: 24px;
-  padding: 16px 26px 16px 12px;
   position: relative;
 }
 
@@ -240,19 +234,15 @@
   font-family: 'Poppins', sans-serif;
   font-weight: 500;
   line-height: 24px;
-  margin: 0 0 0 12px;
+  padding: 16px 26px 16px 12px;
 }
 
 .lg > img {
   position: absolute;
   padding: 8px;
   margin: 0 0 0 12px;
-  left: 90%;
-}
-
-.lg-list {
-  padding: 12px;
-  margin: 0;
+  left: 80%;
+  top: 10px;
 }
 
 .lg-list > li {
@@ -284,10 +274,7 @@
     align-items: center;
     background-color: #f7f7f9;
     border-radius: 8px;
-  }
-
-  .lg-list .skills:nth-child(2) {
-    margin: 12px 0;
+    margin: 0 12px 11px 11px;
   }
 }
 
