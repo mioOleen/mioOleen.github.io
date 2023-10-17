@@ -439,7 +439,6 @@ body {
 }
 
 .btnGet {
-  
   padding: 12px 16px;
   border-radius: 8px;
   background: #fff;
@@ -452,7 +451,6 @@ body {
   line-height: 24px;
   letter-spacing: 0.51px;
   border: none;
-
 }
 
 .lastImg {
