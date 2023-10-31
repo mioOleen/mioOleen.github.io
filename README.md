@@ -20,7 +20,7 @@
 
 > This project is about creating first page of a portfolio of mobile version with responsitive.
 
-**[Portfolio project 1]** is a...
+**[Portfolio project 1]** is a project
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -33,6 +33,15 @@
     <li>CSS</li>
   </ul>
 </details>
+
+<!-- LIVE DEMO -->
+
+## 🚀 Live Demo <a name="live-demo"></a>
+
+- [Live Demo Link](https://miooleen.github.io/)
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
